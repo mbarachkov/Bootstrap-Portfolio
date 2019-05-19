@@ -111,9 +111,9 @@ footer {
   background: #666666;
   border-top: 8px solid #4aaaa5;
   /*sticky style*/
-  position: fixed;
+  /* position: fixed;
   bottom: 0;
-  width: 100%;
+  width: 100%; */
 }
 
 h3, h2 {
