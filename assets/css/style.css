@@ -110,6 +110,7 @@ footer {
   text-align: center;
   background: #666666;
   border-top: 8px solid #4aaaa5;
+  /*sticky style*/
   position: fixed;
   bottom: 0;
   width: 100%;
